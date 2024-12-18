@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amir Tairov</h1>
+<h1 align="center">Hi 👋, I'm Tairov Amir</h1>
 <h3 align="center">I'm Backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/YJflsrJIOe.gif">
 
